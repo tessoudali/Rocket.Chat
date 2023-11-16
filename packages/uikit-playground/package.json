@@ -19,7 +19,7 @@
     "@rocket.chat/fuselage-hooks": "^0.32.1",
     "@rocket.chat/fuselage-polyfills": "next",
     "@rocket.chat/fuselage-tokens": "next",
-    "@rocket.chat/fuselage-ui-kit": "workspace:~",
+    "@rocket.chat/fuselage-ui-kit": "0.2.0",
     "@rocket.chat/icons": "^0.32.0",
     "@rocket.chat/logo": "^0.31.27",
     "@rocket.chat/styled": "next",
