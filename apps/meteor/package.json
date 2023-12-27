@@ -422,7 +422,7 @@
 		"textarea-caret": "^3.1.0",
 		"tinykeys": "^1.4.0",
 		"turndown": "^7.1.2",
-		"twilio": "^3.76.1",
+		"twilio": "^4.19.3",
 		"twit": "^2.2.11",
 		"ua-parser-js": "^1.0.35",
 		"underscore": "^1.13.6",
