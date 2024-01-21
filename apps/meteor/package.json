@@ -354,7 +354,7 @@
 		"jquery": "^3.6.0",
 		"jschardet": "^3.0.0",
 		"jsdom": "^16.7.0",
-		"jsrsasign": "^10.5.24",
+		"jsrsasign": "^11.0.0",
 		"juice": "^8.0.0",
 		"katex": "^0.16.7",
 		"ldap-escape": "^2.0.6",
