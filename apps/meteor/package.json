@@ -219,7 +219,7 @@
 		"@nivo/core": "0.80.0",
 		"@nivo/heatmap": "0.80.0",
 		"@nivo/line": "0.80.0",
-		"@nivo/pie": "0.80.0",
+		"@nivo/pie": "0.85.0",
 		"@react-aria/color": "^3.0.0-beta.15",
 		"@react-pdf/renderer": "^3.1.12",
 		"@rocket.chat/account-utils": "workspace:^",
