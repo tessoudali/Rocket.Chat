@@ -15,7 +15,7 @@
 	],
 	"author": "Rocket.Chat",
 	"dependencies": {
-		"@rocket.chat/apps-engine": "1.41.0-alpha.290",
+		"@rocket.chat/apps-engine": "1.41.0",
 		"@rocket.chat/core-services": "workspace:^",
 		"@rocket.chat/core-typings": "workspace:^",
 		"@rocket.chat/emitter": "next",
@@ -23,7 +23,7 @@
 		"@rocket.chat/logger": "workspace:^",
 		"@rocket.chat/model-typings": "workspace:^",
 		"@rocket.chat/models": "workspace:^",
-		"@rocket.chat/rest-typings": "workspace:^",
+		"@rocket.chat/rest-typings": "6.3.0",
 		"@rocket.chat/string-helpers": "next",
 		"@rocket.chat/ui-contexts": "workspace:^",
 		"colorette": "^1.4.0",
