@@ -32,7 +32,7 @@
 		"/dist"
 	],
 	"dependencies": {
-		"@react-pdf/renderer": "^3.1.12",
+		"@react-pdf/renderer": "^3.1.15",
 		"@rocket.chat/core-typings": "workspace:^",
 		"@rocket.chat/fuselage-tokens": "next",
 		"@types/react": "~17.0.62",
