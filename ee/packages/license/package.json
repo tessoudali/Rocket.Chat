@@ -41,7 +41,7 @@
 		"extends": "../../../package.json"
 	},
 	"dependencies": {
-		"@rocket.chat/core-typings": "workspace:^",
+		"@rocket.chat/core-typings": "6.5.0",
 		"@rocket.chat/jwt": "workspace:^",
 		"@rocket.chat/logger": "workspace:^",
 		"bcrypt": "^5.0.1"
